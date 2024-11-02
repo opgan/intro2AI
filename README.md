@@ -8,4 +8,4 @@ This is practice
      3.  Create requirements.txt: touch requirements.txt
      4.  Run install: make install
      5.  Run test: make test
-     6.  Git Push: 
+     6.  Git Push: git add*, git commit -m "adding makefile", git push, git rebase (if there is repo contains different content from Codespaces)
