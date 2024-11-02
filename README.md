@@ -2,8 +2,10 @@
 This is practice
 
 1. Create virtual environment (VE) in Codespaces: virtualenv myENV
-2. Activate VE: source myENV/bin/activate
-3. Create Makefile: touch Makefile
-4. Create requirements.txt: touch requirements.txt
-5. Run install: make install
-6. Run test: make test
+2. Codespaces Terminal:
+     1.  Activate VE: source myENV/bin/activate
+     2.  Create Makefile: touch Makefile
+     3.  Create requirements.txt: touch requirements.txt
+     4.  Run install: make install
+     5.  Run test: make test
+     6.  Git Push: 
