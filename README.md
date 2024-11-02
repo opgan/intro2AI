@@ -10,3 +10,4 @@ This is practice
      5.  Run test: make test
      6.  Git Push: git add*, git commit -m "adding makefile", git push, git rebase (if there is repo contains different content from Codespaces)
 3. 2 ways to share Colab notebook with public Github: 1. Select Save softcopy in Github from Colab/File, 2. Share Link from Google drive: Copy link from Google drive and paste in Readme as in: https://colab.research.google.com/drive/1ua-_242OoVj33vRGfZyMNrKGzWJ3dLzo?usp=sharing
+Sync selected file from Github to Codespaces: git checkout main -- helloAI.ipynb
