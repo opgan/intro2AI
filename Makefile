@@ -4,6 +4,7 @@ install:
 
 test:
 		python -m pytest --nbval helloAI.ipynb 
+		python -m pytest -vv --cov=hello test_hello.py 
 
 format:
 		black *.py
