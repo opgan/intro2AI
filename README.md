@@ -5,4 +5,5 @@ This is practice
 2. Activate VE: source myENV/bin/activate
 3. Create Makefile: touch Makefile
 4. Create requirements.txt: touch requirements.txt
-5. 
+5. Run install: make install
+6. Run test: make test
